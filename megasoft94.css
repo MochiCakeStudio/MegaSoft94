@@ -1,0 +1,18 @@
+ /**
+ * @name MegaSoft94
+ * @author Emiko Mochi
+ * @description A soft, updated Windows 94-inspired dark theme with rounded corners for modern eyes.
+ * @version 0.0.1
+ * @invite tntVqe8b3k
+ * @authorId 801715004046704670
+ * @website https://mochicakestudio.carrd.co 
+ * @source https://github.com/MochiCakeStudio (needs to be edited to the repo)
+ /**
+
+/* === FONT & GENERAL RESET === */
+:root {
+    --temp-bg-color: #000;
+    --temp-bg-height: 100vh;
+    --temp-scanline: block;
+    --temp-flicker: none;
+}
