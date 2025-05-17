@@ -1,0 +1,17 @@
+ {
+ "id": "com.example.megasoft94",
+ "name": "MegaSoft94",
+ "author": {
+     name: Emiko Mochi
+     github: Mochicakestudio
+ },
+ "description": "A soft, updated Windows 95-inspired dark theme with rounded corners for modern eyes.",
+ "version": "1.0.0",
+ "license": "MIT",
+ "type": "replugged-theme"
+ updater: {
+    type: github
+    id:mochicakestudio/megasoft94
+ },
+ source: https://github.com/MochiCakeStudio/MegaSoft94
+ }
